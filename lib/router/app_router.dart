@@ -1,5 +1,5 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:fitpage_submission/screens/details_screen.dart';
+import 'package:fitpage_submission/screens/criteria_screen.dart';
 
 import '../screens/home_screen.dart';
 import '../screens/variable_screen.dart';

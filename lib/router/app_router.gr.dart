@@ -16,7 +16,7 @@ import 'package:flutter/material.dart' as _i5;
 
 import '../model/stock/stock.dart' as _i6;
 import '../model/variable/variable.dart' as _i7;
-import '../screens/details_screen.dart' as _i2;
+import '../screens/criteria_screen.dart' as _i2;
 import '../screens/home_screen.dart' as _i1;
 import '../screens/variable_screen.dart' as _i3;
 

@@ -45,8 +45,9 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                   data[i].tag,
                   style: TextStyle(
                     color:
-                        (data[i].color == 'green') ? Colors.green : Colors.red,
-                  ),
+                        (data[i].color == 'green') ? Color(0xFF34B71F) : Color(0xFFF3393F),
+
+                ),
                 ),
                 onTap: () {
                   context.router.push(CriteriaRoute(stock: data[i]));
